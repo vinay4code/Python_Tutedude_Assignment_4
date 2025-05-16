@@ -3,7 +3,7 @@
 This repository contains two Python scripts developed for Assignment 4 of the Python course, focusing on handling files and exceptions.
 
 ## 📌 Task 1: Read a File and Handle Errors
-**Filename:** `read_file_with_error_handling.py`
+**Filename:** `Task1.py`
 
 ### Description
 - Opens and reads a text file named `sample.txt`.
@@ -11,7 +11,7 @@ This repository contains two Python scripts developed for Assignment 4 of the Py
 - Gracefully handles errors such as when the file does not exist.
 
 ## 📌 Task 2: Write and Append Data to a File
-**Filename:** `write_and_append_file.py`
+**Filename:** `Task2.py`
 
 ### Description
 - Accepts user input and writes it to `output.txt`.
@@ -22,8 +22,8 @@ This repository contains two Python scripts developed for Assignment 4 of the Py
 Ensure you have Python installed, then run the scripts using:
 
 ```bash
-python read_file_with_error_handling.py
-python write_and_append_file.py
+python Task1.py
+python Task2.py
 
 
 
